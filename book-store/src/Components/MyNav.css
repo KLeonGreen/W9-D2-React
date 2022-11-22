@@ -1,0 +1,9 @@
+.Nav-Bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.Navbar {
+  background-color: #ffd2b9;
+}

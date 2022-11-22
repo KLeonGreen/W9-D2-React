@@ -1,0 +1,6 @@
+.jumbotron {
+  /* background-color: aquamarine; */
+  background-image: url(https://cdn.pixabay.com/photo/2015/10/31/14/33/dark-1015825_640.jpg);
+  margin-block-start: 50px;
+  color: antiquewhite;
+}
